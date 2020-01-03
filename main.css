@@ -1,0 +1,16 @@
+a:link{
+    text-decoration: none;
+}
+
+#un{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 80px;
+    font-family: sans-serif;
+}
+
+#cinq{
+    display: flex;
+    justify-content: center;
+}
